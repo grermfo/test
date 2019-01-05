@@ -1,2 +1,0 @@
-my project is test
-
